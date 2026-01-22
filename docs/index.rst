@@ -9,7 +9,7 @@ Trend Micro is a leading provider of cybersecurity solutions designed to protect
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
